@@ -1,0 +1,6 @@
+com\niit\amazeshoppy\MainDb.class
+com\niit\dao\ProductDao.class
+com\niit\product\Product.class
+com\niit\amazeshoppy\DbConfig.class
+com\niit\dao\ProductDaoImp.class
+com\niit\product\Category.class
